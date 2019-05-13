@@ -1,0 +1,4 @@
+Arial Bold
+MrsEavesItalic Regular
+Arial Regular
+SegoeWP Light
